@@ -1,9 +1,9 @@
 # Site
-name: "Fawn's Corner"
+name: "Fawnline"
 title: "Fawn"
 description: "raynna's little corner of the internet"
-logo: 'assets/images/iconlogo'
-favicon: 'assets/images/favicon.png'
+logo: '/assets/images/iconlogo'
+favicon: '/assets/images/favicon.png'
 baseurl: /fawn
 google_analytics: 'G-VK7GP3QCYJ'
 disqus: 'demowebsite'
