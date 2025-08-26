@@ -2,8 +2,8 @@
 name: "Fawnline"
 title: "Fawn"
 description: "raynna's little corner of the internet"
-logo: '/assets/images/iconlogo'
-favicon: '/assets/images/favicon.png'
+logo: 'assets/images/iconlogo'
+favicon: 'assets/images/favicon.png'
 baseurl: /fawn
 google_analytics: 'G-VK7GP3QCYJ'
 disqus: 'demowebsite'
@@ -13,14 +13,23 @@ permalink: /:title/
 
 # Authors
 authors:
-  raynna:
-    name: Raynna
-    display_name: Fawn
-    gravatar: 51d47b4ab427650f79304e7aa7ca064f6d2b18d40c650e0a612f8b122bab4b0e
-    email: deerdoesmail@gmail.com
-    web: rayn-na.github.io/fawn
-    twitter: https://twitter.com/digitalraindeer
-    description: "Um, y'know!"
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 
 # Plugins
