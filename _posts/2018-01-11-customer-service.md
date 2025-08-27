@@ -1,31 +1,18 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Weapons: The Dangers of Hype"
 author: raynna
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ reviews, opinion piece ]
+tags: [horror, movie]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "My review of the Weapons movie, discussing plot, acting, and overall narrative."
 featured: true
-hidden: true
-rating: 4.5
+hidden: false
+rating: 3.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+### Prior to watch
 
-#### How to use?
+Since the first preview, I had been hearing the mounting screams of the horror-lovers around me over this movie. I may be a bit harsh in saying this but a horror movie fan, modern horrors have been kind of disappointing me as of late. I'm not saying that the movies haven't been good, finding absolute cinema gold in Sinners (2025), The Monkey (2025), Nope(2022), and even Black Phone (2021). Hell, I even found myself enjoying the Candyman reboot! However, all of these movies are fairly recent and it's no secret that these movie production studios have been struggling to find a way to modernize the genre. These Frankensteins have been creating a monster pile of cringe with their attempts to pander to their younger audiences and failing more than succeeding. Yes. I'm looking at Bodies, Bodies, Bodies and the last two Scream movies. Whether franchise or stand-alone, it's lowkey been a nightmare. 
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
-
-```html
----
-layout: post
-title:  "Inception Movie"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
----
-```
+I made the conscious decision two years ago not to watch movie trailers because for some reason that I will probably never understand, the movies I most anticipate end up getting spoiled throughout the entire first dropped trailer. I'm good on that. Obviously, while watching movies in theater, it's unavoidable. So imagine my surprise when the trailer for this movie drops and it actually looks good, doesn't reveal too much in the preview, and has actors I'm familiar with? And it's a horror movie?! It felt like I hit the jackpot. 
